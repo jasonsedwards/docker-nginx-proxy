@@ -348,31 +348,6 @@ this will setup basic-auth for the the `/about` location or simply swap the 2 fo
   rules maintenance WAF for NGINX
 * [GeoLite data](http://www.maxmind.com">http://www.maxmind.com) This product includes GeoLite data created by MaxMind.
 
-## Find Us
-
-* [GitHub](https://github.com/UKHomeOffice/docker-nginx-proxy)
-* [Quay.io](https://quay.io/repository/ukhomeofficedigital/nginx-proxy)
-
-## Contributing
-
-Feel free to submit pull requests and issues. If it's a particularly large PR, you may wish to
-discuss it in an issue first.
-
-Please note that this project is released with a [Contributor Code of Conduct](code_of_conduct.md).
-By participating in this project you agree to abide by its terms.
-
 ## Versioning
 
 We use [SemVer](http://semver.org/) for the version tags available See the tags on this repository.
-
-## Authors
-
-* **Lewis Marshal** - *Initial work* - [lewismarshall](https://github.com/lewismarshall)
-
-See also the list of
-[contributors](https://github.com/UKHomeOffice/docker-nginx-proxy/graphs/contributors) who
-participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
